@@ -6,6 +6,7 @@ Ingeniero Informático | Cloud | Web
 
 * 🌍  I'm based in Tenerife
 * 🖥️  See my portfolio at [Nico89.com](http://nico89.com)
+* ✉️  You can contact me at [nico@aymet.it](mailto:nico@aymet.it)
 * 🚀  I'm currently working on [SysCo](http://sysco.biz)
 * 🧠  I'm learning IA, k8s, bigbata
 * 🤝  I'm open to collaborating on data integration projects
