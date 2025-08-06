@@ -8,7 +8,7 @@ Ingeniero Informático | Cloud | Web
 * 🖥️  See my portfolio at [Zzuk.in](https://zzuk.in)
 * ✉️  You can contact me at [nikuzz@zzuk.in](mailto:nikuzz@zzuk.in)
 * 🚀  I'm currently working for [SysCo](http://sysco.biz)
-* 🧠  I'm learning IA, k8s, BigData
+* 🧠  I'm learning IA, k8s, BigData, BDD, Terraform
 * 🤝  I'm open to collaborating on data integration projects
 * ⚡  I'm a percussionist
 
