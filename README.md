@@ -6,7 +6,7 @@ Ingeniero Informático | Cloud | Web
 
 * 🌍  I'm based in Tenerife
 * 🖥️  See my portfolio at [Zzuk.in](https://zzuk.in)
-* ✉️  You can contact me at [nico@aymet.it](mailto:nico@aymet.it)
+* ✉️  You can contact me at [nikuzz@zzuk.in](mailto:nikuzz@zzuk.in)
 * 🚀  I'm currently working for [SysCo](http://sysco.biz)
 * 🧠  I'm learning IA, k8s, BigData
 * 🤝  I'm open to collaborating on data integration projects
